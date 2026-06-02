@@ -13,7 +13,7 @@ affect student academic performance, using a dataset of 395 students.
 
 ## Methods
 ## Normality test
- - Shapiro test is used because the observaions is less than 200
+ - Shapiro test is used because the observaions is less than 2000
 ## Homogeneity of variance 
 - Levene's test is applied 
 ## for testing the claims
