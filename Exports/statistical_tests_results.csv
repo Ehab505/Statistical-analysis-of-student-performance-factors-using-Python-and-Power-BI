@@ -1,0 +1,7 @@
+Question,Test,Factor,Statistic,P_Value,Conclusion
+Q1,ANCOVA,Mjob,0.856,0.4905,Not Significant
+Q1,ANCOVA,Fjob,0.3842,0.8199,Not Significant
+Q1,ANCOVA,Mjob x Fjob interaction,1.7482,0.0366,Significant
+Q2,Spearman,Edu_Rank,0.2265,0.0723,Significant - Weak positive
+Q3,t-test,Address,0.9932,0.9835,Not significant
+Q4,t-test,Family size,0.9932,0.0507,Borderline — Not Significant
